@@ -8,3 +8,6 @@ Created on Fri Mar 10 15:49:09 2023
 print("Jay Renz Mantala")
 print("Magapua, Mogpog, Marinduque")
 print("December 15, 2002")
+print("College of Information and Computing Sciences")
+print("Bachelor of Science in Information Technology")
+print("BSIT 2B")
